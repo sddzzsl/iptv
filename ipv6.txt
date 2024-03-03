@@ -286,7 +286,6 @@ CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 山东教育,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
 德州新闻综合,http://qrh.yimkj.cn/山东齐鲁.php?id=dzxwzh
 德州经济生活,http://qrh.yimkj.cn/山东齐鲁.php?id=dzjjsh
-山东平原综合,http://qrh.yimkj.cn/山东齐鲁.php?id=dzpyxw
 山东武城综合,http://qrh.yimkj.cn/山东齐鲁.php?id=dzwcxw
 山东武城综艺影视,http://qrh.yimkj.cn/山东齐鲁.php?id=dzwczy
 山东临邑1,http://qrh.yimkj.cn/山东齐鲁.php?id=dzly1
@@ -298,7 +297,7 @@ CCTV央视文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000
 山东禹城综艺,http://qrh.yimkj.cn/山东齐鲁.php?id=dzyczy
 山东乐陵新闻综合,http://qrh.yimkj.cn/山东齐鲁.php?id=dzllxw
 山东乐陵城市生活,http://qrh.yimkj.cn/山东齐鲁.php?id=dzllcs
-
+山东平原综合,http://qrh.yimkj.cn/山东齐鲁.php?id=dzpyxw
 
 少儿教育,#genre#
 
