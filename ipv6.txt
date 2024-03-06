@@ -354,6 +354,8 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 动作电影,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
 
 
+
+
 IHOT频道,#genre#
 爱谍战,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
 爱动漫,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
@@ -400,7 +402,7 @@ IHOT频道,#genre#
 
 
 综合频道,#genre#
-
+书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 茶友频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/1.m3u8
 快乐垂钓,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226805/1.m3u8
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
@@ -409,6 +411,13 @@ IHOT频道,#genre#
 第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8
 财富天下,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226350/index.m3u8
 置业频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
+
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+华数4K,http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+百事通4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
+Love Nrture,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -597,6 +606,7 @@ InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 
 歌曲音乐,#genre#
 
+八段锦,https://pan.shangui.cc/f/XeqqTd/八段锦.mp4
 换到千般恨,https://pan.shangui.cc/f/M4aPHy/换到千般恨.mp4
 红枣树,https://pan.shangui.cc/f/KKQAu6/红枣树.mp4
 久别的人,https://pan.shangui.cc/f/dnaPto/久别的人.mp4
@@ -607,4 +617,3 @@ InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 花打朝1,https://pan.shangui.cc/f/EBoBSD/花打朝1.mp4
 花打朝2,https://pan.shangui.cc/f/YVB0Ty/花打朝2.mp4
 花打朝3,https://pan.shangui.cc/f/ZKnduv/花打朝3.mp4
-八段锦,https://pan.shangui.cc/f/bL1ZC1/八段锦.mp4
