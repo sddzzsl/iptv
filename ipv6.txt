@@ -615,6 +615,4 @@ InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 我的快乐就是想你,https://pan.shangui.cc/f/vdDnhk/我的快乐就是想你.mp4
 野花香,https://pan.shangui.cc/f/3eB7cv/野花香.mp4
 梅花赋,https://pan.shangui.cc/f/ln1wSk/梅花赋.mp4#https://pan.shangui.cc/f/DwVNIz/梅花赋.mkv
-花打朝1,https://pan.shangui.cc/f/EBoBSD/花打朝1.mp4
-花打朝2,https://pan.shangui.cc/f/YVB0Ty/花打朝2.mp4
-花打朝3,https://pan.shangui.cc/f/ZKnduv/花打朝3.mp4
+
