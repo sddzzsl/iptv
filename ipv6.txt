@@ -136,12 +136,12 @@ CCTV-14少儿,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1163769
 CCTV-15音乐,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1206123286_628792276/ott.mobaibox.com/PLTV/3/224/3221227538/index.m3u8?icpid=3&RTS=1674381321&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3$3.5M1080
 CCTV-15音乐,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw2053177814_136071778/ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8?icpid=3&RTS=1674386463&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3$5.5M1080HEVC
 CCTV-15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$8M1080
-CCTV-15 音乐,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-CCTV-15 音乐,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw1248547286_2118050836/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8?icpid=3&RTS=1674381363&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-CCTV-15 音乐,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw434828587_188325560/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8?icpid=3&RTS=1668595229&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-CCTV-15 音乐,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-15 音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-15 音乐,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228404/index.m3u8
+CCTV-15音乐,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+CCTV-15音乐,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw1248547286_2118050836/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8?icpid=3&RTS=1674381363&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+CCTV-15音乐,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw434828587_188325560/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8?icpid=3&RTS=1668595229&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+CCTV-15音乐,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-15音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-15音乐,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228404/index.m3u8
 
 CCTV-16奥林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$4M1080
 CCTV-16奥林匹克,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1269761993_1267691970/ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8?icpid=3&RTS=1674381385&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3$7M1080
