@@ -615,5 +615,6 @@ InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 野花香,https://pan.shangui.cc/f/3eB7cv/野花香.mp4
 梅花赋,https://pan.shangui.cc/f/ln1wSk/梅花赋.mp4#https://pan.shangui.cc/f/DwVNIz/梅花赋.mkv
 人生的道场,https://pan.shangui.cc/f/BXJDCp/人生的道场.mp4
-武家坡,https://pan.shangui.cc/f/kljyuR/武家坡.mp4
+东方女孩,https://pan.shangui.cc/f/mMxGhb/东方女孩.mp4
+你的万水千山,https://pan.shangui.cc/f/Xegwid/你的万水千山.mp4
 
