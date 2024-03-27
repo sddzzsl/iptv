@@ -853,6 +853,7 @@ InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 歌曲音乐,#genre#
 
 八段锦,https://pan.shangui.cc/f/XeqqTd/八段锦.mp4
+你笑起来真好看,https://pan.shangui.cc/f/lDmlUk/你笑起来真好看.mp4
 换到千般恨,https://pan.shangui.cc/f/M4aPHy/换到千般恨.mp4
 红枣树,https://pan.shangui.cc/f/KKQAu6/红枣树.mp4
 久别的人,https://pan.shangui.cc/f/dnaPto/久别的人.mp4
