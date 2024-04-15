@@ -1,21 +1,5 @@
 央视频道,#genre#
 
-CCTV-1,http://120.224.178.16:9901/tsfile/live/0001_1.m3u8
-CCTV-2,http://120.224.178.16:9901/tsfile/live/0002_1.m3u8
-CCTV-3,http://120.224.178.16:9901/tsfile/live/0003_1.m3u8
-CCTV-4,http://120.224.178.16:9901/tsfile/live/0004_1.m3u8
-CCTV-5,http://120.224.178.16:9901/tsfile/live/0005_1.m3u8
-CCTV-6,http://120.224.178.16:9901/tsfile/live/0006_1.m3u8
-CCTV-7,http://120.224.178.16:9901/tsfile/live/0007_1.m3u8
-CCTV-8,http://120.224.178.16:9901/tsfile/live/0008_1.m3u8
-CCTV-9,http://120.224.178.16:9901/tsfile/live/0009_1.m3u8
-CCTV-10,http://120.224.178.16:9901/tsfile/live/0010_1.m3u8
-CCTV-11,http://120.224.178.16:9901/tsfile/live/0011_1.m3u8
-CCTV-12,http://120.224.178.16:9901/tsfile/live/0012_1.m3u8
-CCTV-13,http://120.224.178.16:9901/tsfile/live/0013_1.m3u8
-CCTV-14,http://120.224.178.16:9901/tsfile/live/0014_1.m3u8
-CCTV-15,http://120.224.178.16:9901/tsfile/live/0015_1.m3u8
-CCTV-5+,http://120.224.178.16:9901/tsfile/live/0016_1.m3u8
 
 CCTV-1,http://125.38.228.206:8888/udp/225.1.1.120:5002
 CCTV-2,http://125.38.228.206:8888/udp/225.1.1.133:5002
