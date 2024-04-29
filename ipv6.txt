@@ -290,15 +290,15 @@ CCTV-14,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVS
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
 山东少儿,https://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
-山东少儿,https://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+
 
 卡酷少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
 金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
-CETVCCTV-1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225652/index.m3u8
-CETVCCTV-2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226425/index.m3u8
-CETVCCTV-4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225783/index.m3u8
+CETV-1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225652/index.m3u8
+CETV-2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226425/index.m3u8
+CETV-4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225783/index.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225653/index.m3u8
 哈哈炫动,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225657/index.m3u8
 卡酷少儿,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8
