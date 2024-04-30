@@ -1,5 +1,23 @@
 央视频道,#genre#
 
+CCTV-1,http://tvbox.netsite.cc/proxy/753065176/753065176.m3u8
+CCTV-2,http://tvbox.netsite.cc/proxy/1231349557/1231349557.m3u8
+CCTV-3,http://tvbox.netsite.cc/proxy/781829366/781829366.m3u8
+CCTV-4,http://tvbox.netsite.cc/proxy/2065759974/2065759974.m3u8
+CCTV-5,http://tvbox.netsite.cc/proxy/1484254751/1484254751.m3u8
+CCTV-6,http://tvbox.netsite.cc/proxy/1275265590/1275265590.m3u8
+CCTV-7,http://tvbox.netsite.cc/proxy/1797993240/1797993240.m3u8
+CCTV-8,http://tvbox.netsite.cc/proxy/366510833/366510833.m3u8
+CCTV-9,http://tvbox.netsite.cc/proxy/41408178/41408178.m3u8
+CCTV-10,http://tvbox.netsite.cc/proxy/358752297/358752297.m3u8
+CCTV-11,http://tvbox.netsite.cc/proxy/1384058039/1384058039.m3u8
+CCTV-12,http://tvbox.netsite.cc/proxy/1168098921/1168098921.m3u8
+CCTV-13,http://tvbox.netsite.cc/proxy/547513505/547513505.m3u8
+CCTV-14,http://tvbox.netsite.cc/proxy/1977445545/1977445545.m3u8
+CCTV-15,http://tvbox.netsite.cc/proxy/2128760541/2128760541.m3u8
+CCTV-16,http://tvbox.netsite.cc/proxy/434481154/434481154.m3u8
+CCTV-17,http://tvbox.netsite.cc/proxy/2004643460/2004643460.m3u8
+CCTV-5+,http://tvbox.netsite.cc/proxy/1319414029/1319414029.m3u8
 
 CCTV-1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
 CCTV-2,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI
