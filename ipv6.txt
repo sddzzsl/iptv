@@ -297,7 +297,25 @@ CCTV-5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 山东少儿,http://113.120.46.92:8123/udp/239.21.1.208:5002
 山东生活,http://113.120.46.92:8123/udp/239.21.1.175:5002
 
-
+德州新闻综合,http://8.137.59.151:3000/shandong/qilu.php?id=dzxwzh #
+德州经济生活,http://8.137.59.151:3000/shandong/qilu.php?id=dzjjsh #
+德州图文,http://8.137.59.151:3000/shandong/qilu.php?id=dztw #
+陵城综合,http://8.137.59.151:3000/shandong/qilu.php?id=dzlczh #
+乐陵新闻综合,http://8.137.59.151:3000/shandong/qilu.php?id=dzllxw #
+乐陵城市生活,http://8.137.59.151:3000/shandong/qilu.php?id=dzllcs #
+临邑1,http://8.137.59.151:3000/shandong/qilu.php?id=dzly1 #
+临邑2,http://8.137.59.151:3000/shandong/qilu.php?id=dzly2 #
+宁津综合,http://8.137.59.151:3000/shandong/qilu.php?id=dznjzh #
+平原综合,http://8.137.59.151:3000/shandong/qilu.php?id=dzpyzh #
+齐河综合,http://8.137.59.151:3000/shandong/qilu.php?id=dzqhzh #
+庆云综合,http://8.137.59.151:3000/shandong/qilu.php?id=dzqyzh #
+庆云生活,http://8.137.59.151:3000/shandong/qilu.php?id=dzqysh #
+武城综合,http://8.137.59.151:3000/shandong/qilu.php?id=dzwczh #
+武城综艺影视,http://8.137.59.151:3000/shandong/qilu.php?id=dzwczy #
+夏津综合,http://8.137.59.151:3000/shandong/qilu.php?id=dzxjzh #
+夏津公共,http://8.137.59.151:3000/shandong/qilu.php?id=dzxjgg #
+禹城综合,http://8.137.59.151:3000/shandong/qilu.php?id=dzyczh #
+禹城综艺,http://8.137.59.151:3000/shandong/qilu.php?id=dzyczy #
 
 德州生活,http://113.120.46.92:8123/udp/239.21.1.76:5002
 德州新闻,http://113.120.46.92:8123/udp/239.21.1.75:5002
