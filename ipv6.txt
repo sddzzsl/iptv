@@ -46,27 +46,6 @@ CCTV-5+,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9
 
 
 
-CCTV-1,http://tvbox.netsite.cc/proxy/753065176/753065176.m3u8
-CCTV-2,http://tvbox.netsite.cc/proxy/1231349557/1231349557.m3u8
-CCTV-3,http://tvbox.netsite.cc/proxy/781829366/781829366.m3u8
-CCTV-4,http://tvbox.netsite.cc/proxy/2065759974/2065759974.m3u8
-CCTV-5,http://tvbox.netsite.cc/proxy/1484254751/1484254751.m3u8
-CCTV-6,http://tvbox.netsite.cc/proxy/1275265590/1275265590.m3u8
-CCTV-7,http://tvbox.netsite.cc/proxy/1797993240/1797993240.m3u8
-CCTV-8,http://tvbox.netsite.cc/proxy/366510833/366510833.m3u8
-CCTV-9,http://tvbox.netsite.cc/proxy/41408178/41408178.m3u8
-CCTV-10,http://tvbox.netsite.cc/proxy/358752297/358752297.m3u8
-CCTV-11,http://tvbox.netsite.cc/proxy/1384058039/1384058039.m3u8
-CCTV-12,http://tvbox.netsite.cc/proxy/1168098921/1168098921.m3u8
-CCTV-13,http://tvbox.netsite.cc/proxy/547513505/547513505.m3u8
-CCTV-14,http://tvbox.netsite.cc/proxy/1977445545/1977445545.m3u8
-CCTV-15,http://tvbox.netsite.cc/proxy/2128760541/2128760541.m3u8
-CCTV-16,http://tvbox.netsite.cc/proxy/434481154/434481154.m3u8
-CCTV-17,http://tvbox.netsite.cc/proxy/2004643460/2004643460.m3u8
-CCTV-5+,http://tvbox.netsite.cc/proxy/1319414029/1319414029.m3u8
-CCTV-4k,http://tvbox.netsite.cc/proxy/679257699/679257699.m3u8
-
-
 CCTV-1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-3,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -155,41 +134,7 @@ CCTV-5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 安徽卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3540416BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXv1bCET6%2FGP6LFvnNC2DgGVSARKsxkWGZw7vFUuOj2Qc9XJS6ezvAUx%2FdaE2fSJr3cdTmmqJgNdIzUOCi9%2BOyg
 
 
-湖南卫视,http://tvbox.netsite.cc/proxy/823956387/823956387.m3u8
-海南卫视,http://tvbox.netsite.cc/proxy/1505336139/1505336139.m3u8
-江西卫视,http://tvbox.netsite.cc/proxy/1507547400/1507547400.m3u8
-安徽卫视,http://tvbox.netsite.cc/proxy/1453839032/1453839032.m3u8
-河北卫视,http://tvbox.netsite.cc/proxy/866823714/866823714.m3u8
-三沙卫视,http://tvbox.netsite.cc/proxy/1337100319/1337100319.m3u8
-北京卫视,http://tvbox.netsite.cc/proxy/469197887/469197887.m3u8
-江苏卫视,http://tvbox.netsite.cc/proxy/1561313428/1561313428.m3u8
-东方卫视,http://tvbox.netsite.cc/proxy/609485212/609485212.m3u8
-浙江卫视,http://tvbox.netsite.cc/proxy/1562317673/1562317673.m3u8
-广西卫视,http://tvbox.netsite.cc/proxy/1407270894/1407270894.m3u8
-重庆卫视,http://tvbox.netsite.cc/proxy/1866473212/1866473212.m3u8
-深圳卫视,http://tvbox.netsite.cc/proxy/846832031/846832031.m3u8
-山西卫视,http://tvbox.netsite.cc/proxy/825435414/825435414.m3u8
-贵州卫视,http://tvbox.netsite.cc/proxy/344811278/344811278.m3u8
-陕西卫视,http://tvbox.netsite.cc/proxy/1142191527/1142191527.m3u8
-青海卫视,http://tvbox.netsite.cc/proxy/1152127449/1152127449.m3u8
-浙江卫视,http://tvbox.netsite.cc/proxy/1076829733/1076829733.m3u8
-湖北卫视,http://tvbox.netsite.cc/proxy/1513765070/1513765070.m3u8
-广东卫视,http://tvbox.netsite.cc/proxy/730496254/730496254.m3u8
-四川卫视,http://tvbox.netsite.cc/proxy/1364123916/1364123916.m3u8
-河南卫视,http://tvbox.netsite.cc/proxy/1555831884/1555831884.m3u8
-东南卫视,http://tvbox.netsite.cc/proxy/605886267/605886267.m3u8
-贵州卫视,http://tvbox.netsite.cc/proxy/1114625252/1114625252.m3u8
-辽宁卫视,http://tvbox.netsite.cc/proxy/1767807342/1767807342.m3u8
-山东卫视,http://tvbox.netsite.cc/proxy/1400078770/1400078770.m3u8
-新疆卫视,http://tvbox.netsite.cc/proxy/1423426614/1423426614.m3u8
-云南卫视,http://tvbox.netsite.cc/proxy/1057712184/1057712184.m3u8
-甘肃卫视,http://tvbox.netsite.cc/proxy/1209404373/1209404373.m3u8
-海南卫视,http://tvbox.netsite.cc/proxy/2019508840/2019508840.m3u8
-宁夏卫视,http://tvbox.netsite.cc/proxy/1558349983/1558349983.m3u8
-黑龙江卫视,http://tvbox.netsite.cc/proxy/1993445467/1993445467.m3u8
-内蒙古卫视,http://tvbox.netsite.cc/proxy/1791768022/1791768022.m3u8
-黑龙江卫视,http://tvbox.netsite.cc/proxy/797978954/797978954.m3u8
-新疆兵团卫视,http://tvbox.netsite.cc/proxy/1502802665/1502802665.m3u8
+
 
 
 北京卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -438,6 +383,7 @@ NewTV,#genre#
 紫气东来,https://pan.shangui.cc/f/wm65sg/紫气东来.mp4#https://pan.shangui.cc/f/51YdfA/zqdl.mp4
 八段锦,https://pan.shangui.cc/f/kxByhR/八段锦.mp4
 你笑起来真好看,https://pan.shangui.cc/f/Xodmsd/你笑起来真好看.mp4
+来跳舞,https://pan.shangui.cc/f/5z1mCA/来跳舞.mp4
 偏偏相思赋予谁,https://pan.shangui.cc/f/8JYQIo/偏偏相思赋予谁.mp4
 换到千般恨,https://pan.shangui.cc/f/M4aPHy/换到千般恨.mp4
 红枣树,https://pan.shangui.cc/f/KKQAu6/红枣树.mp4
@@ -446,6 +392,6 @@ NewTV,#genre#
 我的快乐就是想你,https://pan.shangui.cc/f/vdDnhk/我的快乐就是想你.mp4
 野花香,https://pan.shangui.cc/f/3eB7cv/野花香.mp4
 梅花赋,https://pan.shangui.cc/f/ln1wSk/梅花赋.mp4#https://pan.shangui.cc/f/DwVNIz/梅花赋.mkv
-人生的道场,https://pan.shangui.cc/f/BXJDCp/人生的道场.mp4
+月亮之上,https://pan.shangui.cc/f/XqqNtd/月亮之上.mp4
 尘缘,https://pan.shangui.cc/f/51JaSA/尘缘.mp4#https://pan.shangui.cc/f/60JNtp/cylj.mp4
 你的万水千山,https://pan.shangui.cc/f/Xegwid/你的万水千山.mp4
