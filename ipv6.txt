@@ -31,18 +31,18 @@ CCTV-5+,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9
 央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0
 高尔夫网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGLY7Qr44mlU8Mm7hAKppcofYcqtkgnrIU1veEPNSLwHTPQxqGjPgZkOj3N28h2Dcwo
 
-兵器科技,http://117.9.168.48:8888/udp/225.1.2.166:5002
-第一剧场,http://117.9.168.48:8888/udp/225.1.2.175:5002
-电视指南,http://117.9.168.48:8888/udp/225.1.2.167:5002
-风云剧场,http://117.9.168.48:8888/udp/225.1.2.174:5002
-风云音乐,http://117.9.168.48:8888/udp/225.1.2.176:5002$天津联通
-风云足球,http://117.9.168.48:8888/udp/225.1.2.168:5002
-高尔夫网球,http://117.9.168.48:8888/udp/225.1.2.169:5002
-怀旧剧场,http://117.9.168.48:8888/udp/225.1.2.173:5002
-女性时尚,http://117.9.168.48:8888/udp/225.1.2.172:5002
-世界地理,http://117.9.168.48:8888/udp/225.1.2.171:5002
-央视文化精品,http://117.9.168.48:8888/udp/225.1.2.177:5002
-央视台球,http://117.9.168.48:8888/udp/225.1.2.170:5002
+兵器科技,http://60.27.14.234:8888/udp/225.1.2.166:5002
+第一剧场,http://60.27.14.234:8888/udp/225.1.2.175:5002
+电视指南,http://60.27.14.234:8888/udp/225.1.2.167:5002
+风云剧场,http://60.27.14.234:8888/udp/225.1.2.174:5002
+风云音乐,http://60.27.14.234:8888/udp/225.1.2.176:5002$天津联通
+风云足球,http://60.27.14.234:8888/udp/225.1.2.168:5002
+高尔夫网球,http://60.27.14.234:8888/udp/225.1.2.169:5002
+怀旧剧场,http://60.27.14.234:8888/udp/225.1.2.173:5002
+女性时尚,http://60.27.14.234:8888/udp/225.1.2.172:5002
+世界地理,http://60.27.14.234:8888/udp/225.1.2.171:5002
+央视文化精品,http://60.27.14.234:8888/udp/225.1.2.177:5002
+央视台球,http://60.27.14.234:8888/udp/225.1.2.170:5002
 
 
 
@@ -351,10 +351,6 @@ CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
 
 电视剧,http://tvbox.netsite.cc/proxy/649200103/649200103.m3u8
-
-海外剧场,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 
 少儿教育,#genre#
 
